@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Vlozeni komentare";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Result"]</h3>
+
+
+<form method="POST">
+
+
+    <label for="user">Prihlaseny uzivatel</label>
+    <input type="number" id="user" name="user" placeholder="User" />
+    <br />
+    <label for="zbozi">Vybrane zbozi</label>
+    <input type="number" id="zbozi" name="zbozi" placeholder="Zbozi" />
+
+    <hr />
+
+    <label for="predmet">Predmet</label>
+    <input type="text" id="predmet" name="predmet" placeholder="Predmet" />
+    <br />
+    <label for="txt">Text</label>
+    <textarea id="txt" name="txt"></textarea>
+    <br />
+    <input type="submit" value="Odeslat komentar" />
+</form>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seznamkategorii>
+  <kategorie id="1">
+    <nazev>Zidle</nazev>
+    <popis>Pellentesque vitae condimentum lacus. Pellentesque erat quam, euismod quis ante et, auctor porta velit. In placerat felis metus, ut tristique posuere.</popis>
+  </kategorie>
+  <kategorie id="2">
+    <nazev>Stoly</nazev>
+    <popis>Nunc suscipit libero a commodo rutrum. Phasellus sit amet ipsum eu urna porta facilisis. Class aptent taciti sociosqu ad litora torquent per volutpat.</popis>
+  </kategorie>
+  <kategorie id="3">
+    <nazev>Skrine</nazev>
+    <popis>Phasellus sit amet ipsum, pellentesque erat quam, euismod quis ante et, auctor porta velit.  Class aptent taciti sociosqu ad litora torquent per volutpat. In placerat felis metus, ut tristique posuere.</popis>
+  </kategorie>
+</seznamkategorii>
